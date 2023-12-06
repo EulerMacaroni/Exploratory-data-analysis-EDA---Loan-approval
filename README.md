@@ -1,2 +1,3 @@
 # Exploratory-data-analysis-EDA---Loan-approval
-Data analysis project
+<p> This data analysis was done for course project based on <https://www.kaggle.com/datasets/venkatasubramanian/credit-eda-case-study/> </p>
+
